@@ -1,0 +1,1 @@
+For each sub part of the question a different python script with filename= qustion sub part, is present in this directory. To run use the following command: python filename inputfilename. The files are commented to explain what each generator is doing, a more detailed explanation can be found in the submitted writeup. 
